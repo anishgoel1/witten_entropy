@@ -1,6 +1,7 @@
 import math
 from manimlib import *
 
+
 def calc_entropy(p):
     """
     :param p: list with probability of each letter in alphabet occurring
