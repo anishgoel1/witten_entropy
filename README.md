@@ -5,3 +5,5 @@
 `text_entropy.py` calculates the information entropy of any text
 
 `conditional_entropy.py` calculates the conditional entropy, joint entropy, and mutual information for a probability matrix. An example inspired from `Sec 2.2` is provided
+
+`relative_entropy.py` calculates the relative entropy for two simple, normal distributions with different variances
